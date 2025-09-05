@@ -4,11 +4,9 @@ This is an open source repository that will help to manage a Bitcoin Wallet.
 
 ### 🪙 Donations are Welcome!
 If you find this project helpful, you can support my work with a small donation. 
-₿ Bitcoin: bc1q...
+🔹₿ Bitcoin: bc1q...
 
 # 📂 Folder list:
 Here there is a description for each sub-folders in this repository:
-
-    🔹 ## BTC wallet generate
-        generate a BTC wallet with different   
-    🔹 ## BTC wallet chrack
+- **BTC wallet generate**
+- ## **BTC wallet cracking**
